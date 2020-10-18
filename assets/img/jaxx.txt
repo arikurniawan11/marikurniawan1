@@ -1,0 +1,5 @@
+Front-end Sebagai pengembang javascript, saya memiliki pengalaman dalam teknik HTML dan CSS3 bekerja dengan 1 Query atau kerangka kerja MVC javascript yang lebih maju seperti angular
+
+Memanfaatkan kerangka kerja php seperti Zend atau membuat kode yang dipesan lebih dahulu, saya telah menulis layanan yang mendukung ribuan pengguna, termasuk REST APIS, aplikasi e-learning, dan lainnya.
+
+Konsultasi Selain menyediakan layanan pengembangan, saya juga dapat membantu Anda memutuskan peta jalan strategis melalui layanan konsultasi
